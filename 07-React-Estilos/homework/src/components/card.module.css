@@ -1,0 +1,43 @@
+.middlediv{
+    display: flex;
+    flex-direction: row;
+    }
+
+.middlediv div{
+    padding: 10px;
+    }
+
+.principal {
+display: flex;
+flex-direction: column;
+border-width: 1px;
+align-items: center;
+border-style: solid;
+border-color: grey;
+border-radius: 15px;
+height: 180px;
+width: 240px;
+box-sizing: content-box;
+margin: 10px;
+}
+
+
+.btn {
+    background-color: red;
+    border-color: red;
+    border-radius: 4px;
+    color: white;
+    margin: 5px;
+    align-self: flex-end;
+}
+
+.principal h2{
+    color: black;
+    font-size: 20px;
+}
+
+.principal h4{
+    color: black;
+    font-size: 15px;
+}
+

@@ -1,0 +1,6 @@
+.principal{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin: 10px;
+    }

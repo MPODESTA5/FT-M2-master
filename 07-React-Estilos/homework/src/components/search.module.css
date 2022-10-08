@@ -1,0 +1,17 @@
+.principal{
+    padding-right: 10px;
+    display: flex;
+    justify-content: flex-end;
+    margin-top: 10px;
+}
+
+.btn{
+color: grey;
+background-color: black;
+}
+
+.btn:hover{
+    background-color: grey;
+    color: black;
+       
+}
